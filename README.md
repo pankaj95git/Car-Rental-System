@@ -1,4 +1,4 @@
-# 🚗 Car Rental System (OOPs Based)
+# Car Rental System (OOPs Based)
 
 A simple **Car Rental System** project built using **Object-Oriented Programming (OOPs)** concepts in **Java**.  
 This project demonstrates the practical use of **Encapsulation, Inheritance, Polymorphism, and Abstraction** while simulating a real-world car rental service.
@@ -16,10 +16,7 @@ This project demonstrates the practical use of **Encapsulation, Inheritance, Pol
 ---
 
 ## 🛠️ Tech Stack
-- **Language:** Java  
-- **Database (Optional):** MySQL / File-based storage  
+- **Language**: Java  
+- **Database:** MySQL / File-based storage  
 - **Paradigm:** Object-Oriented Programming  
 
----
-
-## 📂 Project Structure
